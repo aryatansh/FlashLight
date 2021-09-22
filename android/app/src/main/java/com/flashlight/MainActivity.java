@@ -1,4 +1,4 @@
-package com.flashlight;
+package com.yourflashlight;
 
 import com.facebook.react.ReactActivity;
 

@@ -1,4 +1,4 @@
-package com.flashlight;
+package com.yourflashlight;
 
 import android.app.Application;
 import android.content.Context;
