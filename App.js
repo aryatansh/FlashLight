@@ -34,13 +34,13 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   headerTextFalse: {
-    fontSize: 100,
+    fontSize: 60,
     textAlign: 'center',
     fontWeight: 'bold',
     color: 'green',
   },
   headerTextTrue: {
-    fontSize: 100,
+    fontSize: 60,
     textAlign: 'center',
     fontWeight: 'bold',
     color: 'red',
